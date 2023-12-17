@@ -1,14 +1,78 @@
 .chak {
-    height: 800px;
-    width: 800px;
+    height: 1100px;
+    width: 1100px;
     border: 2px solid  #000;
     box-sizing: border-box;
     position: relative;
 }
-.chik {
+
+.chuk {
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    margin-left: -4px;
+    font-size: 30px;
+    border: 1px solid #fff;
+}
+.chuk1{
+    height: 50px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    margin-left: 100px;
+    font-size: 30px;
+    border: 1px solid #fff;
+}
+
+.white {
     height: 100px;
     width: 100px;
     display: inline-block;
     position: relative;
-    margin
+    background-color: #fff;
+    border: 1px solid #000 ;
+    margin-left: -4px;
+    margin-bottom: -4px;
+}
+.white1 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #000 ;
+    margin-left: 100px;
+    margin-bottom: -4px;
+}
+.black {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    background-color: #000;
+    border: 1px solid #000 ;
+    margin-left: -4px;
+    margin-bottom: -4px;
+}
+.black1 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    background-color: #000;
+    border: 1px solid #000 ;
+    margin-left: 100px;
+    margin-bottom: -4px;
+    }
+.number {
+    height: 50px;
+    width: 30px;
+    display: inline-block;
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #000 ;
+    margin-bottom: -4px;
 }
